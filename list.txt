@@ -27,3 +27,6 @@ rpc netty zookeeper 消息队列//公司看
 数组
 异常
 基础使用
+
+流于表面的问题 mysql 怎么优化
+OOM异常的处理思路
