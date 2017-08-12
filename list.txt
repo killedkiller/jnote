@@ -30,3 +30,5 @@ rpc netty zookeeper 消息队列//公司看
 
 流于表面的问题 mysql 怎么优化
 OOM异常的处理思路
+classloader jvm
+mysql连接池
