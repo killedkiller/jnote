@@ -45,3 +45,6 @@ mysql连接池
 >>>>>>> e085a180a944e16a12512c0a4f582bf7ccc509bb
 介绍我们的rpc
 构造函数调用逻辑
+
+spring aop/ioc aop商用逻辑和业务逻辑分离，controller层继承的逻辑（java的filter）
+http://blog.csdn.net/moreevan/article/details/11977115/
