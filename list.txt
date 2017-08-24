@@ -48,3 +48,7 @@ mysql连接池
 
 spring aop/ioc aop商用逻辑和业务逻辑分离，controller层继承的逻辑（java的filter）
 http://blog.csdn.net/moreevan/article/details/11977115/
+
+
+
+url dispatcher
